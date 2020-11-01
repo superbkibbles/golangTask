@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b214e38e-49a5-4370-a559-41504878c99e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../go1.15beta1" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jbzLbGqAcGriFBjdThiYJvIDBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/superbkibbles/shortnerUrl" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="shortnerUrl" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/superbkibbles/shortnerUrl" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/superbkibbles/shortnerUrl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="300" width="400" height="334" key="#Go_Modules" timestamp="1604087546806">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="631" y="300" width="400" height="334" key="#Go_Modules/72.27.1528.873@72.27.1528.873" timestamp="1604087546806" />
+    <state x="552" y="265" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604142894485">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="552" y="265" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1528.873@72.27.1528.873" timestamp="1604142894485" />
+    <state width="1482" height="268" key="GridCell.Tab.0.bottom" timestamp="1604254192765">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="268" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1604254192765" />
+    <state width="1482" height="268" key="GridCell.Tab.0.center" timestamp="1604254192764">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="268" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1604254192764" />
+    <state width="1482" height="268" key="GridCell.Tab.0.left" timestamp="1604254192763">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="268" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1604254192763" />
+    <state width="1482" height="268" key="GridCell.Tab.0.right" timestamp="1604254192764">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="268" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1604254192764" />
+  </component>
+</project>
