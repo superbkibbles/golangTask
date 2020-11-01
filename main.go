@@ -116,28 +116,6 @@ func RootEndpoint(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, url.LongUrl, http.StatusFound)
 }
 
-//func saveInCache(url Urls) {
-//	var urls []interface{}
-//	res, found := c.Get("visitedSites")
-//	if !found {
-//	//	 add mew one
-//		urls = append(urls, url)
-//		c.Set("visitedSites", &urls, cache.DefaultExpiration)
-//
-//		return
-//	}
-//
-//	for _, links := range res {
-//
-//	}
-//	urls = append(urls, res)
-//	c.Set("visitedSites", &urls, cache.DefaultExpiration)
-//
-//	fmt.Println(urls)
-//	// add new one to slice
-//}
-
-
 func main() {
 	DB , dbErr = ConnectDb("root:password@/{DBNAME")
 	if dbErr != nil {
