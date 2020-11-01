@@ -31,9 +31,6 @@ func init() {
 }
 
 func CreateEndpoint(w http.ResponseWriter, r *http.Request) {
-	//w.WriteHeader(202)
-	//w.Write([]byte("Hello"))
-	//return
 	var url Urls
 
 	_ = json.NewDecoder(r.Body).Decode(&url)
@@ -142,8 +139,7 @@ func RootEndpoint(w http.ResponseWriter, r *http.Request) {
 
 
 func main() {
-	// DELETE MY PATH and password Later on
-	DB , dbErr = ConnectDb("root:A3201888118a@/shortner")
+	DB , dbErr = ConnectDb("root:password@/{DBNAME")
 	if dbErr != nil {
 		log.Fatal(dbErr)
 	}
