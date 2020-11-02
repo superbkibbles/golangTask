@@ -10,7 +10,7 @@ import (
 )
 
 func init(){
-	DB , dbErr = ConnectDb("root:A3201888118a@/shortner")
+	DB , dbErr = ConnectDb("root:{PASSWORD}@/{DBNAME}")
 }
 
 func TestCreateEndpoint(t *testing.T) {

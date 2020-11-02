@@ -116,6 +116,7 @@ func RootEndpoint(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, url.LongUrl, http.StatusFound)
 }
 
+
 func main() {
 	DB , dbErr = ConnectDb("root:password@/{DBNAME")
 	if dbErr != nil {
